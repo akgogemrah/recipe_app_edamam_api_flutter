@@ -2,7 +2,7 @@
 
 
 
-### To see  Screen Record Video of App [click here](https://disk.yandex.com.tr/i/v3hP8xpqTwF47A).
+## Getting Started
 
 This project is food recipe app project that users can find recipes based on ingredients and food names.
 
@@ -35,7 +35,7 @@ A few resources to get you started if this is your first Flutter project:
 
 ### FavoriteListPage Screenshot
 <img src="https://github.com/akgogemrah/recipe_app/blob/master/ScreenShots/Screenshot_1680666530.png" alt="alt text" width="400" height="866">
-Users can share their favorite recipes taping on the share button and delete receipt swipping on the left.
+Users can share their favorite recipes tapping on the share button and delete receipt swipping on the left.
 
 ### Recipe Details of SearchPage
 <img src="https://github.com/akgogemrah/recipe_app/blob/master/ScreenShots/Screenshot_1680665866.png" alt="alt text" width="400" height="866">
