@@ -31,3 +31,13 @@ A few resources to get you started if this is your first Flutter project:
 ### Search query for query='chicken'
 
 <img src="https://github.com/akgogemrah/recipe_app/blob/master/ScreenShots/Screenshot_1680666077.png" alt="alt text" width="400" height="866">
+
+
+### FavoriteListPage Screenshot
+<img src="https://github.com/akgogemrah/recipe_app/blob/master/ScreenShots/Screenshot_1680666530.png" alt="alt text" width="400" height="866">
+Users can share their favorite recipes taping on the share button and delete receipt swipping on the left.
+
+### Recipe Details of SearchPage
+<img src="https://github.com/akgogemrah/recipe_app/blob/master/ScreenShots/Screenshot_1680665866.png" alt="alt text" width="400" height="866">
+
+- User can add receipt tapping to '+' button.
