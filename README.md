@@ -41,3 +41,4 @@ Users can share their favorite recipes tapping on the share button and delete re
 <img src="https://github.com/akgogemrah/recipe_app/blob/master/ScreenShots/Screenshot_1680665866.png" alt="alt text" width="400" height="866">
 
 - User can add receipt tapping to '+' button.
+ 
