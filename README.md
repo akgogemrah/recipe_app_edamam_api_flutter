@@ -2,7 +2,7 @@
 
 
 
-## Getting Started
+### To see  Screen Record Video of App [Click here](https://disk.yandex.com.tr/i/v3hP8xpqTwF47A).
 
 This project is food recipe app project that users can find recipes based on ingredients and food names.
 
