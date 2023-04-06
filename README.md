@@ -1,7 +1,5 @@
 # Edamam Recipe Api Flutter App
 
-
-
 ## To see a sample video belong the app [click here](https://disk.yandex.com.tr/i/v3hP8xpqTwF47A).
 
 This project is food recipe app project that users can find recipes based on ingredients and food names.
@@ -24,14 +22,13 @@ A few resources to get you started if this is your first Flutter project:
 ### Database
 -SQFLITE package is used to adding favorite recipes and reading and deleting favorite recipe screen.
 
-## About Edamam Research Search Api
+### About Edamam Research Search Api
 -To fetch ingredients i request from 'ingredientLines'.
 -Fetching recipe name, request to 'label'.
 -Fetching food calories, request to 'calories'.
 ### Search query for query='chicken'
 
 <img src="https://github.com/akgogemrah/recipe_app/blob/master/ScreenShots/Screenshot_1680666077.png" alt="alt text" width="400" height="866">
-
 
 ### FavoriteListPage Screenshot
 <img src="https://github.com/akgogemrah/recipe_app/blob/master/ScreenShots/Screenshot_1680666530.png" alt="alt text" width="400" height="866">
