@@ -26,6 +26,8 @@ A few resources to get you started if this is your first Flutter project:
 -To fetch ingredients i request from 'ingredientLines'.
 -Fetching recipe name, request to 'label'.
 -Fetching food calories, request to 'calories'.
+### Sharing Recipe
+- In order to share recipe 'share_plus: ^6.3.1' package is used.
 ### Search query for query='chicken'
 
 <img src="https://github.com/akgogemrah/recipe_app/blob/master/ScreenShots/Screenshot_1680666077.png" alt="alt text" width="400" height="866">
