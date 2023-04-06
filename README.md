@@ -4,8 +4,6 @@
 
 This project is food recipe app project that users can find recipes based on ingredients and food names.
 
-A few resources to get you started if this is your first Flutter project:
-
 - Edamam  Recipe Search Api is used to fetch food recipes. [Edamam Api](https://www.edamam.com/).
 - App has home screen that users can search recipes and displays recipes as list based on search query.
 - Users are able to save recipes to their favorites list by tapping a "favorite" button on the recipe details screen.
