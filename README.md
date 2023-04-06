@@ -22,7 +22,7 @@ A few resources to get you started if this is your first Flutter project:
 ### Navigation
 -  Flutter Navigation  is used to navigate between screens.
 ### Database
--SQFLITE package is used to adding favorite recipes and reading favorite recipe screen.
+-SQFLITE package is used to adding favorite recipes and reading and deleting favorite recipe screen.
 
 ## About Edamam Research Search Api
 -To fetch ingredients i request from 'ingredientLines'.
